@@ -15,7 +15,7 @@ ONLY the contents of the "***ClassNameTypePairs***" type definition shall be eve
 
 This is required to allow for safe usage of ANY version of this module (``@*``).
 
-To achieve **[SemVer](<https://semver.org/>)** (i.e. **[Zer0Ver](<https://0ver.org/>)** in this case), the **Major Version** part will be removed.
+To achieve **[SemVer](<https://semver.org/>)** (i.e. **[Zer0Ver](<https://0ver.org/>)** in this case), the **Major Version** part will be removed if 0, otherwise amplified:
 
 > This is required to perform `wally publish`
 
