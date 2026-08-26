@@ -15,6 +15,16 @@ ONLY the contents of the "***ClassNameTypePairs***" type definition shall be eve
 
 This is required to allow for safe usage of ANY version of this module (``@*``).
 
+To achieve **[SemVer](<https://semver.org/>)** (i.e. **[Zer0Ver](<https://0ver.org/>)** in this case), the **Major Version** part will be removed.
+
+> This is required to perform `wally publish`
+
+e.g. `0.736.0.7361342` -> `736.0.7361342`
+
+if **Major Version** ever becomes > 0, concat `its value * 1000` at the beginning, e.g. `1.736.0.7361342` -> `1000736.0.7361342`
+
+> **[More info on Version here](<https://github.com/MaximumADHD/Roblox-Client-Tracker#versiontxt>)**
+
 ---
 
 ## Available Here!
