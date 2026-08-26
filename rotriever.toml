@@ -1,0 +1,8 @@
+[package]
+name = "coffilhg/classnametypepairs"
+author = "Coffilhg"
+content_root = "src"
+version = "0.736.0.7361342"
+license = "Unlicense"
+
+[dependencies]
