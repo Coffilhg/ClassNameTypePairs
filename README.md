@@ -58,10 +58,10 @@ When Roblox removes a ClassName (e.g. it was deprecated and removed), that Class
     ```toml
     ClassNameTypePairs = "coffilhg/classnametypepairs@*"
     ```
-- **[Rotriever](<https://github.com/Coffilhg/ClassNameTypePairs/releases/tag/v738.0.7381393>)**
+- **[Rotriever](<https://github.com/Coffilhg/ClassNameTypePairs/releases/tag/v739.0.7390687>)**
 
     ```toml
-    ClassNameTypePairs = "github.com/Coffilhg/Useful-Modules@738.0.7381393"
+    ClassNameTypePairs = "github.com/Coffilhg/Useful-Modules@739.0.7390687"
     ```
 
 ---
