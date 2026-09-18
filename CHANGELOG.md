@@ -1,5 +1,9 @@
 # Only HUGE changes are stated here, not the ones auto-generated!
 
+# v`0.736.0.7361346` changes -> v`0.737.0.7371584` changes
+## Everything is sorted alphabetically
+### this does not affect the functionality, just a note to avoid confusion about huge additions/removals
+
 # v`0.736.0.7361342` -> v`0.736.0.7361346` changes
 ## The structure was changed, adding LOTS of LINES
 > It turns out using the type definition of ClassNameTypePairs in conjunction with `keyof` and `index` type functions and mixed with a generic via `&` (as in `T & index<ClassNameTypePairs, keyof<ClassNameTypePairs>>`) over a chained wrapper structure will lead to `Type Error: type if too complex to typecheck...`
